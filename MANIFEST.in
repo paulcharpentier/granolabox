@@ -1,0 +1,3 @@
+graft granolabox
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  granolabox/jupy *
